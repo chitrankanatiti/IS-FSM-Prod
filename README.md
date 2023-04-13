@@ -9,4 +9,7 @@ cases (everything left)
 
 
 
-14-04-2023 updated call tracker controller not finished
+14-04-2023 
+updated call tracker 
+controller not finished
+few doubts in querey writing
